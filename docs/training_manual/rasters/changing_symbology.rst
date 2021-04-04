@@ -3,7 +3,7 @@
 
 Not all raster data are aerial photos.
 There are many other forms of raster data, and in many of those cases,
-it is essential to symbolize the them so that they becomes properly
+it is essential to symbolize them so that they becomes properly
 visible and useful.
 
 **The goal for this lesson:** To change the symbology for a raster
